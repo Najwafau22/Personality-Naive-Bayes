@@ -1,4 +1,4 @@
-# Personality-Naive-Bayes
+# Personality - Naive Bayes
 Project Machine Learning - Penggunaan Naive Bayes dalam Menganalisis dan Mengklasifikasikan Kepribadian Individu
 
 Dataset yang digunakan dalam tes ini merupakan kumpulan data terkait kebiasaan sosial dan karakteristik individu dalam kehidupan sehari-hari, seperti:
