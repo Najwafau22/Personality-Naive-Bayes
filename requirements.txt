@@ -1,9 +1,8 @@
 streamlit
 pandas
 scikit-learn
-sklearn
 numpy
-opencv-python
+opencv-python-headless
 mahotas
 matplotlib
 seaborn
