@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 st.header("📊 Evaluasi Dataset & Naive Bayes")
 
 # --- Path Dataset
-DATASET_PATH = 'C:\\xampp\\htdocs\\personality_ML\\personality_dataset.csv'
+DATASET_PATH = 'personality_dataset.csv'
 
 # --- Load Data
 try:
