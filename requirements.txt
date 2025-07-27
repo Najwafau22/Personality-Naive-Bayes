@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+sklearn.model_selection import train_test_split
+sklearn.naive_bayes import BernoulliNB
+sklearn.preprocessing
+sklearn.impute
+sklearn.metrics 
+os
